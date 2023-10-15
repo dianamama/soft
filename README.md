@@ -1,0 +1,2 @@
+# soft
+pip install PyAutoGUI
